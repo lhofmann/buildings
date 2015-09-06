@@ -1,0 +1,11 @@
+*.sig
+*.sublime*
+tmp/*
+optional_dependencies/*
+!optional_dependencies/README.md
+output*/*
+!output/IGNORE_ME
+log/*
+!log/IGNORE_ME
+temp/*
+!temp/IGNORE_ME

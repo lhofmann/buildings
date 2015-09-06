@@ -1,0 +1,102 @@
+[*] Computing quotient building for d=2, q=3, N=T^2 + 1.
+Time: 68.800
+[*] Computing space of harmonic cochains.
+Time: 2.470
+Dim H!: 3
+[*] Computing Hecke operator for k = 1, P = T + 2.
+Characteristic polynomial: T^3 + 3*T^2 + 15*T - 19
+Time: 5.570
+[*] Computing Hecke operator for k = 2, P = T + 2.
+Characteristic polynomial: T^3 + 3*T^2 + 15*T - 19
+Time: 5.340
+[*] Computing Hecke operator for k = 1, P = T + 1.
+Characteristic polynomial: T^3 + 3*T^2 + 15*T - 19
+Time: 5.580
+[*] Computing Hecke operator for k = 2, P = T + 1.
+Characteristic polynomial: T^3 + 3*T^2 + 15*T - 19
+Time: 5.400
+[*] Computing Hecke operator for k = 1, P = T.
+Characteristic polynomial: T^3 - 3*T^2 - 9*T + 27
+Time: 4.720
+[*] Computing Hecke operator for k = 2, P = T.
+Characteristic polynomial: T^3 - 3*T^2 - 9*T + 27
+Time: 4.960
+[*] Computing Hecke operator for k = 1, P = T^2 + 2*T + 2.
+Characteristic polynomial: T^3 + 3*T^2 + 51*T + 305
+Time: 44.170
+[*] Computing Hecke operator for k = 2, P = T^2 + 2*T + 2.
+Characteristic polynomial: T^3 + 3*T^2 + 51*T + 305
+Time: 40.880
+[*] Computing Hecke operator for k = 1, P = T^2 + T + 2.
+Characteristic polynomial: T^3 + 3*T^2 + 51*T + 305
+Time: 50.240
+[*] Computing Hecke operator for k = 2, P = T^2 + T + 2.
+Characteristic polynomial: T^3 + 3*T^2 + 51*T + 305
+Time: 60.690
+[*] Computing Hecke operator for k = 1, P = T^3 + 2*T + 1.
+Characteristic polynomial: T^3 + 39*T^2 + 447*T + 1817
+Time: 399.280
+[*] Computing Hecke operator for k = 2, P = T^3 + 2*T + 1.
+Characteristic polynomial: T^3 + 39*T^2 + 447*T + 1817
+Time: 479.230
+[*] Computing Hecke operator for k = 1, P = T^3 + 2*T^2 + 2*T + 2.
+Characteristic polynomial: T^3 - 51*T^2 + 807*T - 10693
+Time: 515.790
+[*] Computing Hecke operator for k = 2, P = T^3 + 2*T^2 + 2*T + 2.
+Characteristic polynomial: T^3 - 51*T^2 + 807*T - 10693
+Time: 475.740
+[*] Computing Hecke operator for k = 1, P = T^3 + T^2 + T + 2.
+Characteristic polynomial: T^3 + 57*T^2 + 1995*T + 16379
+Time: 498.100
+[*] Computing Hecke operator for k = 2, P = T^3 + T^2 + T + 2.
+Characteristic polynomial: T^3 + 57*T^2 + 1995*T + 16379
+Time: 507.370
+[*] Computing Hecke operator for k = 1, P = T^3 + 2*T + 2.
+Characteristic polynomial: T^3 + 39*T^2 + 447*T + 1817
+Time: 517.860
+[*] Computing Hecke operator for k = 2, P = T^3 + 2*T + 2.
+Characteristic polynomial: T^3 + 39*T^2 + 447*T + 1817
+Time: 489.880
+[*] Computing Hecke operator for k = 1, P = T^3 + T^2 + 2.
+Characteristic polynomial: T^3 - 21*T^2 - 393*T + 14237
+Time: 485.190
+[*] Computing Hecke operator for k = 2, P = T^3 + T^2 + 2.
+Characteristic polynomial: T^3 - 21*T^2 - 393*T + 14237
+Time: 501.680
+[*] Computing Hecke operator for k = 1, P = T^3 + 2*T^2 + T + 1.
+Characteristic polynomial: T^3 + 57*T^2 + 1995*T + 16379
+Time: 517.000
+[*] Computing Hecke operator for k = 2, P = T^3 + 2*T^2 + T + 1.
+Characteristic polynomial: T^3 + 57*T^2 + 1995*T + 16379
+Time: 505.770
+[*] Computing Hecke operator for k = 1, P = T^3 + T^2 + 2*T + 1.
+Characteristic polynomial: T^3 - 51*T^2 + 807*T - 10693
+Time: 512.530
+[*] Computing Hecke operator for k = 2, P = T^3 + T^2 + 2*T + 1.
+Characteristic polynomial: T^3 - 51*T^2 + 807*T - 10693
+Time: 510.000
+[*] Computing Hecke operator for k = 1, P = T^3 + 2*T^2 + 1.
+Characteristic polynomial: T^3 - 21*T^2 - 393*T + 14237
+Time: 514.980
+[*] Computing Hecke operator for k = 2, P = T^3 + 2*T^2 + 1.
+Characteristic polynomial: T^3 - 21*T^2 - 393*T + 14237
+Time: 487.580
+[*] Computing Hecke operator for k = 1, P = T^4 + 2*T^3 + T + 1.
+Characteristic polynomial: T^3 + 75*T^2 + 1923*T - 70471
+Time: 3999.600
+[*] Computing Hecke operator for k = 2, P = T^4 + 2*T^3 + T + 1.
+Characteristic polynomial: T^3 + 75*T^2 + 1923*T - 70471
+Time: 5150.710
+[*] Computing Hecke operator for k = 1, P = T^4 + T^3 + 2*T^2 + 2*T + 2.
+Characteristic polynomial: T^3 + 111*T^2 + 8907*T + 484253
+Time: 5217.040
+[*] Computing Hecke operator for k = 2, P = T^4 + T^3 + 2*T^2 + 2*T + 2.
+Characteristic polynomial: T^3 + 111*T^2 + 8907*T + 484253
+Time: 5123.920
+[*] Computing Hecke operator for k = 1, P = T^4 + T^2 + 2.
+Characteristic polynomial: T^3 - 201*T^2 + 11739*T - 212635
+Time: 4849.760
+[*] Computing Hecke operator for k = 2, P = T^4 + T^2 + 2.
+Characteristic polynomial: T^3 - 201*T^2 + 11739*T - 212635
+Time: 4464.220
+[*] Computing Hecke operator for k = 1, P = T^4 + T^3 + T^2 + 1.
