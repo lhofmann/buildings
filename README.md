@@ -3,6 +3,8 @@
 A MAGMA framework for computing quotients of Bruhat-Tits buildings over function fields modulo congruence subgroups
 and their Hecke operators.
 
+This is the source code of algorithms developed in my Master's thesis [Algorithmen zur Berechnung arithmetischer Quotienten von Bruhat-Tits-Gebäuden zu PGL_d+1(K_inf)](thesis.pdf) (available in German only). Example output can be found in Chapter 5.
+
 ## Usage
 
 See the examples `building.m` and `harmonic.m` for basic usage of this framework. 
